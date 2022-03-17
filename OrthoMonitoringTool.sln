@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrthoMonitoringTool", "OrthoMonitoringTool\OrthoMonitoringTool.csproj", "{50D4F8FB-452F-4683-A360-F9DE1DA738B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D4F8FB-452F-4683-A360-F9DE1DA738B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D4F8FB-452F-4683-A360-F9DE1DA738B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D4F8FB-452F-4683-A360-F9DE1DA738B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D4F8FB-452F-4683-A360-F9DE1DA738B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32FF3B45-7B06-4C05-982E-6C40B4B5A729}
+	EndGlobalSection
+EndGlobal
